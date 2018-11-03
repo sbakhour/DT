@@ -1,2 +1,2 @@
-# DT
-Domain TakeOver TEST by sbakhour
+# SubDomain TakeOver
+SubDomain TakeOver - Proof of Concept by sbakhour
